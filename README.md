@@ -1,7 +1,7 @@
 # Abhishek-S-A
-First clone the repository.
+1.First clone the repository.
 <br>
-Upload the Dataset.
+2.Upload the Dataset.
 <br>
-Run each and every code.
+3.Run each and every code.
 <br>
